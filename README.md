@@ -12,7 +12,8 @@ Este proyecto implementa una arquitectura híbrida basada en Aprendizaje Profund
 * miguelhernandez0532@gmail.com
 * **Pérez Del Angel Joaquín Eduardo**
 * eduardodelangel17@outlook.com
-* **[Nombre Tercer Integrante] [Apellido]** 
+* **Luis Eduardo Cruz Miranda**
+* eduardo_luis 2003@hotmail.com*
 
 ---
 
